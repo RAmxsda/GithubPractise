@@ -2,7 +2,7 @@ name:"Prodcast Generator"
 author:"Ramsesh Thapa"
 description:"Generates Feed for a prodcast from YAML file"
 runs:
-  using: "docker"
+  using:"docker"
   image:"Dockerfile"
 branding:
   icon:"git-branch"
